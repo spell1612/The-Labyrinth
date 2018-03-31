@@ -7,6 +7,7 @@ I will try and port this to the newer C++ in the coming days
 
 ## Installation
 There're no particular steps, just grab the latest release *.exe and run it.
+
 *I suggest using DOSbox*
 Currently only supports 32bit OSs
 
