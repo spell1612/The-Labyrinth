@@ -8,8 +8,8 @@ I will try and port this to the newer C++ in the coming days
 ## Installation
 There're no particular steps, just grab the latest release *.exe and run it.
 
-*I suggest using DOSbox*
-Currently only supports 32bit OSs
+*I suggest using DOSbox as it currently only supports 32bit OSs*
+
 
 
 *Gimme a pull request if you want to fix anything/help me in porting to the newer C++ standards*
